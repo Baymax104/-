@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CppPractice"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Projects/Clion2020.3/CppProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/CppProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/CppProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/CppProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/CppProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CppPractice">
+				<Option output="D:/Projects/Clion2020.3/CppProject/cmake-build-debug/CppPractice.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Projects/Clion2020.3/CppProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\developtool\clion\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="d:\developtool\clion\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\developtool\clion\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="d:\developtool\clion\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="d:\developtool\clion\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="d:\developtool\clion\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/CppProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 CppPractice"/>
+					<CompileFile command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/CppProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/CppProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/CppProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CppPractice/fast">
+				<Option output="D:/Projects/Clion2020.3/CppProject/cmake-build-debug/CppPractice.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Projects/Clion2020.3/CppProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\developtool\clion\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="d:\developtool\clion\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\developtool\clion\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="d:\developtool\clion\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="d:\developtool\clion\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="d:\developtool\clion\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/CppProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 CppPractice/fast"/>
+					<CompileFile command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/CppProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/CppProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/CppProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Projects/Clion2020.3/CppProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/CppProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/CppProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/CppProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/CppProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Projects/Clion2020.3/CppProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/CppProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/CppProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/CppProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopTool/Clion/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Projects/Clion2020.3/CppProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Projects/Clion2020.3/CppProject/ComputerRoom.cpp">
+			<Option target="CppPractice"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/CppProject/ComputerRoom.h">
+			<Option target="CppPractice"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/CppProject/Identity.cpp">
+			<Option target="CppPractice"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/CppProject/Identity.h">
+			<Option target="CppPractice"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/CppProject/Manager.cpp">
+			<Option target="CppPractice"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/CppProject/Manager.h">
+			<Option target="CppPractice"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/CppProject/Reservation.cpp">
+			<Option target="CppPractice"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/CppProject/Reservation.h">
+			<Option target="CppPractice"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/CppProject/Student.cpp">
+			<Option target="CppPractice"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/CppProject/Student.h">
+			<Option target="CppPractice"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/CppProject/Teacher.cpp">
+			<Option target="CppPractice"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/CppProject/Teacher.h">
+			<Option target="CppPractice"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/CppProject/View.cpp">
+			<Option target="CppPractice"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/CppProject/View.h">
+			<Option target="CppPractice"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/CppProject/include.h">
+			<Option target="CppPractice"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/CppProject/main.cpp">
+			<Option target="CppPractice"/>
+		</Unit>
+		<Unit filename="D:/Projects/Clion2020.3/CppProject/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

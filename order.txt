@@ -1,0 +1,4 @@
+Name:张三 Id:1 RoomNumber:1 Time:周一上午 Status:预约取消
+Name:张三 Id:1 RoomNumber:2 Time:周二下午 Status:预约失败
+Name:张三 Id:1 RoomNumber:2 Time:周三下午 Status:预约成功
+Name:张三 Id:1 RoomNumber:3 Time:周三下午 Status:预约失败
